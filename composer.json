@@ -4,7 +4,6 @@
     "homepage": "https://github.com/arvatoaws-labs/amazon-s3-and-cloudfront-tweaks/",
     "type": "wordpress-plugin",
     "require": {
-        "composer/installers": "^1.0 || ^2.0",
-        "wpackagist-plugin/amazon-s3-and-cloudfront":"*"
+        "composer/installers": "^1.0 || ^2.0"
     }
 }
